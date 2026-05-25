@@ -4,7 +4,6 @@
 
 ※본 프로젝트는 바이브코딩을 통해 제작되었습니다.※
 
-https://drive.google.com/file/d/1-CAG4RzKKFfZ3s6mZ9ozyK2R0HWPb2UT/view?usp=sharing
 
 ## 📌 시스템 아키텍처 (Architecture)
 
