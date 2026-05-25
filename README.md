@@ -3,6 +3,8 @@
 # Local Image Auto Translator 🚀
 <img width="640" height="400" alt="1" src="https://github.com/user-attachments/assets/44aad0e9-3bdd-461d-ac1b-0359a5d0ea7a" />
 <img width="640" height="400" alt="2" src="https://github.com/user-attachments/assets/f6a7a5e9-08e4-476d-8663-cb32134aaaca" />
+
+
 구글 번역(Google Translate) 페이지의 내장 컨트롤러와 크롬 확장 프로그램 시스템을 결합하여, 로컬 폴더 내의 다수 이미지를 연속으로 일괄 번역하고 자동 저장해 주는 인프라스트럭처 프레임워크입니다. 별도의 백엔드 서버 없이 웹 브라우저 샌드박스 환경 내에서 모든 자동화 파이프라인이 완결되는 효율적인 구조를 가지고 있습니다.
 
 ※본 프로젝트는 바이브코딩을 통해 제작되었습니다.※
