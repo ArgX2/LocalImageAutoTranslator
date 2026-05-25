@@ -4,6 +4,8 @@
 
 ※본 프로젝트는 바이브코딩을 통해 제작되었습니다.※
 
+https://drive.google.com/file/d/1-CAG4RzKKFfZ3s6mZ9ozyK2R0HWPb2UT/view?usp=sharing
+
 ## 📌 시스템 아키텍처 (Architecture)
 
 본 프로그램은 크롬 확장 프로그램(Chrome Extension Manifest V3) 아키텍처 규칙에 따라 역할이 명확히 분리된 **컴포넌트 기반 분산 구조**를 따릅니다.
